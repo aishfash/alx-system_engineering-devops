@@ -1,0 +1,54 @@
+#!/bin/bash
+find . -path "*/*" -empty| rev | cut -d/ -f1 | rev
+#!/bin/bash
+find . -path "*/*" -empty| rev | cut -d/ -f1 | rev
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --                                                   3,1         #!/bin/bash
+cat /etc/passwd | tai#!/bin/bash
+cat /etc/passwd | taill
